@@ -12,3 +12,7 @@ fi
 
 # Customize to your needs...
 
+alias g='git'
+alias v='reattach-to-user-namespace /usr/local/bin/vim'
+alias vi='reattach-to-user-namespace /usr/local/bin/vim'
+alias vim='reattach-to-user-namespace /usr/local/bin/vim'
